@@ -1,6 +1,6 @@
 const sharp = require("sharp");
 
-let EndingImage = 8887;
+let EndingImage = 0;
 let StartingImage = 0;
 
 for (let nftID = StartingImage; nftID <= EndingImage; nftID++) {
